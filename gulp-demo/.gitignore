@@ -62,5 +62,5 @@ typings/
 
 
 dist
-
-temp
+.tmp
+release
